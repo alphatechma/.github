@@ -31,7 +31,7 @@ Se aplicável, anexe imagens para ajudar a explicar o problema.
 
 ## Ambiente
 
-- Produto: [ex.: SmartObra360 / NexusDesk]
+- Produto: [ex.: SmartObra360 / Alpha Service]
 - Versão: [ex.: 1.4.2]
 - Sistema operacional: [ex.: Windows 11, Android 14]
 - Navegador: [ex.: Chrome 124]

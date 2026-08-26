@@ -27,7 +27,7 @@ Trabalhamos com engenharia de produto orientada a resultado: ciclos curtos, deci
 | Produto | Descrição | Destaques |
 |---------|-----------|-----------|
 | **SmartObra360** | Plataforma de gestão de obras de ponta a ponta. | Relatório fotográfico georreferenciado, arquitetura offline-first e integração Pix para pagamentos em campo. |
-| **NexusDesk** | Plataforma ITSM baseada nas práticas ITIL. | Gestão de chamados, catálogo de serviços, fluxos de aprovação e SLAs configuráveis. |
+| **Alpha Service** | Plataforma ITSM baseada nas práticas ITIL. | Gestão de chamados, filas, catálogo de serviços, fluxos de aprovação e SLAs configuráveis. |
 
 ## Stack
 

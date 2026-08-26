@@ -28,6 +28,13 @@ Trabalhamos com engenharia de produto orientada a resultado: ciclos curtos, deci
 |---------|-----------|-----------|
 | **SmartObra360** | Plataforma de gestão de obras de ponta a ponta. | Relatório fotográfico georreferenciado, arquitetura offline-first e integração Pix para pagamentos em campo. |
 | **Alpha Service** | Plataforma ITSM baseada nas práticas ITIL. | Gestão de chamados, filas, catálogo de serviços, fluxos de aprovação e SLAs configuráveis. |
+| **AAO** | Sistema de agentes de IA. | Orquestração de agentes, cliente desktop e integrações. |
+| **GoverneAI** | Plataforma de inteligência para o setor público. | Dados eleitorais, dashboards geográficos e análises pré e pós-pleito. |
+| **Alpha NFe** | Emissão de documentos fiscais em SaaS multi-tenant. | NFC-e e NFS-e Padrão Nacional, integração direta com SEFAZ. |
+| **Letria** | Incentivo à leitura para crianças do 1º ao 5º ano. | Gamificação, avaliação de leitura com correção por IA e fluência ao vivo. |
+| **SisregBot** | Automação de notificações para pacientes do SISREG III. | Envio por WhatsApp, painel de controle e relatórios analíticos. |
+| **MenuFácil** | Cardápio digital para estabelecimentos. | Monorepo TypeScript com API e frontend. |
+| **atend.ia** | Bot de WhatsApp inteligente para negócios. | Atendimento automatizado. |
 
 ## Stack
 

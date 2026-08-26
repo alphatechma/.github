@@ -27,7 +27,7 @@ Trabalhamos com engenharia de produto orientada a resultado: ciclos curtos, deci
 | Produto | Descrição | Destaques |
 |---------|-----------|-----------|
 | **SmartObra360** | Plataforma de gestão de obras de ponta a ponta. | Relatório fotográfico georreferenciado, arquitetura offline-first e integração Pix para pagamentos em campo. |
-| **Alpha Service** | Plataforma ITSM baseada nas práticas ITIL. | Gestão de chamados, filas, catálogo de serviços, fluxos de aprovação e SLAs configuráveis. |
+| **AlphaService** | Plataforma ITSM baseada nas práticas ITIL. | Gestão de chamados, filas, catálogo de serviços, fluxos de aprovação e SLAs configuráveis. |
 | **AAO** | Sistema de agentes de IA. | Orquestração de agentes, cliente desktop e integrações. |
 | **GoverneAI** | Plataforma de inteligência para o setor público. | Dados eleitorais, dashboards geográficos e análises pré e pós-pleito. |
 | **Alpha NFe** | Emissão de documentos fiscais em SaaS multi-tenant. | NFC-e e NFS-e Padrão Nacional, integração direta com SEFAZ. |

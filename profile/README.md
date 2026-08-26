@@ -6,9 +6,9 @@
 
 Soluções SaaS feitas no Maranhão para empresas de todo o Brasil.
 
-[![Site](https://img.shields.io/badge/Site-{{SITE_URL}}-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://{{SITE_URL}})
-[![E-mail](https://img.shields.io/badge/E--mail-{{EMAIL}}-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:{{EMAIL}})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlphaTech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://{{LINKEDIN_URL}})
+[![Site](https://img.shields.io/badge/Site-alphatechai.com.br-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://alphatechai.com.br/)
+[![E-mail](https://img.shields.io/badge/E--mail-devops@maistechtecnologia.com.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devops@maistechtecnologia.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlphaTech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/alphatech-tecnologia)
 
 </div>
 
@@ -51,9 +51,9 @@ Infraestrutura em **DigitalOcean** orquestrada com **Easypanel**.
 
 ## Contato
 
-- **Site:** https://{{SITE_URL}}
-- **E-mail:** {{EMAIL}}
-- **LinkedIn:** https://{{LINKEDIN_URL}}
+- **Site:** https://alphatechai.com.br/
+- **E-mail:** devops@maistechtecnologia.com.br
+- **LinkedIn:** https://www.linkedin.com/company/alphatech-tecnologia
 
 <div align="center">
 

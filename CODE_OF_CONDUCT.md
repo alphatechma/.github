@@ -34,7 +34,7 @@ Este Código de Conduta se aplica em todos os espaços da comunidade e também q
 
 ## Aplicação
 
-Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportados às lideranças responsáveis pela aplicação por meio do e-mail {{EMAIL}}. Todas as queixas serão analisadas e investigadas de forma rápida e justa.
+Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportados às lideranças responsáveis pela aplicação por meio do e-mail devops@maistechtecnologia.com.br. Todas as queixas serão analisadas e investigadas de forma rápida e justa.
 
 Todas as lideranças da comunidade são obrigadas a respeitar a privacidade e a segurança de quem reportar qualquer incidente.
 

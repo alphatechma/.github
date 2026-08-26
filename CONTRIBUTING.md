@@ -46,4 +46,4 @@ Use os templates de issue (Bug Report ou Feature Request) e forneça o máximo d
 
 ---
 
-Em caso de dúvidas, fale com o time pelo e-mail {{EMAIL}}.
+Em caso de dúvidas, fale com o time pelo e-mail devops@maistechtecnologia.com.br.
